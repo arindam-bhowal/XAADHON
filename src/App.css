@@ -889,6 +889,11 @@ body{
   box-shadow: 0 0 7px #333;
   border-radius: 1rem;
   padding: 10px;
+  width: 80%;
+}
+
+.endHome{
+  margin-bottom: 100px;
 }
 
 .select-college{

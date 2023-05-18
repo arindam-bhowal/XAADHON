@@ -64,7 +64,7 @@ const Home = () => {
             <div className="submit-btn">
               <button
                 onClick={handleSearch}
-                className="btn coll-branch-sbtn btn-success"
+                className="btn coll-branch-sbtn btn-success endHome"
               >
                 Search
               </button>

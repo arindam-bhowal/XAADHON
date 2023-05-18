@@ -3,7 +3,8 @@ import "./comingSoon.scss";
 
 const ComingSoon = () => {
   return (
-    <><Navbar />
+    <>
+    <Navbar />
     
     <div className="comingSoon">
       <div className="wrapper">
