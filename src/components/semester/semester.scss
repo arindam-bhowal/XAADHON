@@ -1,0 +1,26 @@
+.semester{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .container{
+        width: 100vw;
+        height: 80vh;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .sems{
+            background: #333;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3em;
+            width: 30%;
+            height: 30%;
+            margin: 50px;
+            cursor: pointer;
+        }
+    }
+}
