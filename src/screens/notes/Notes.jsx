@@ -193,7 +193,7 @@ const Notes = () => {
           </div>
 
           <div
-            className="container"
+            className="container noteContainer"
             style={{
               display: "flex",
               alignItems: "center",
