@@ -50,11 +50,11 @@ const Home = () => {
                   id="inputGroupSelect02"
                 >
                   <option value="">Choose...</option>
-                  <option value="civil">Civil</option>
-                  <option value="">Electrical</option>
-                  <option value="">Chemical</option>
-                  <option value="">Mechinical</option>
-                  <option value="">Instrumentation</option>
+                  <option value="CE">Civil</option>
+                  <option value="EE">Electrical</option>
+                  <option value="CHE">Chemical</option>
+                  <option value="ME">Mechinical</option>
+                  <option value="IE">Instrumentation</option>
                   <option value="">Computer Science</option>
                   <option value="">Industrial Production</option>
                   <option value="ETE">Electronics and Telecommunication</option>
