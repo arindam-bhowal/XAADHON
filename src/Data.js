@@ -859,120 +859,7 @@ const data = [
       "https://drive.google.com/file/d/1qLL6QgeozS6SgFi65d--D3bwo8EPvJUT/view?usp=share_link",
   },
 
-  {
-    title: "Basic electrical engineering",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Basic electrical engineering",
-    paperLink:
-      "https://drive.google.com/drive/folders/15Iw3Enn4yokh9KlKRkw6yYd0byEcak_U?usp=share_link",
-  },
-  {
-    title: "Chemisrty",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Chemisrty",
-    paperLink:
-      "https://drive.google.com/drive/folders/1n4MYZGw87HyFkbYLrguxWU91R2OJ4675?usp=share_link",
-  },
-
-  {
-    title: "CPS",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "CPS",
-    paperLink:
-      "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link",
-  },
-
-  {
-    title: "EGD",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "EGD",
-    paperLink:
-      "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link",
-  },
-  {
-    title: "EM",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "EM",
-    paperLink:
-      "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link",
-  },
-
-  {
-    title: "Maths",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Maths",
-    paperLink:
-      "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link",
-  },
-  {
-    title: "physics",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "physics",
-    paperLink:
-      "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link",
-  },
-
-  {
-    title: "pspc",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "pspc",
-    paperLink:
-      "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link",
-  },
-  {
-    title: "Sociology",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Sociology",
-    paperLink:
-      "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link",
-  },
-  {
-    title: "1st year all question paper",
-    category: "questionPaper",
-    paper_year: 2020,
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "All Subjects",
-    paperLink:
-      "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm",
-  },
+  
 
   {
     title: "Chemical engineering all notes",
@@ -1067,120 +954,7 @@ const data = [
       "https://drive.google.com/drive/folders/1BQo_vStnxGInP79COXM1mmYxD9gx1wPF?usp=share_link",
   },
 
-  {
-    title: "BEE",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "BEE",
-    paperLink:
-      "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link",
-  },
-  {
-    title: "Chemisrty",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Chemisrty",
-    paperLink:
-      "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link",
-  },
-
-  {
-    title: "CPS",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "CPS",
-    paperLink:
-      "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link",
-  },
-
-  {
-    title: "EGD",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "EGD",
-    paperLink:
-      "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link",
-  },
-  {
-    title: "EM",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "EM",
-    paperLink:
-      "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link",
-  },
-
-  {
-    title: "Maths",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Maths",
-    paperLink:
-      "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link",
-  },
-  {
-    title: "physics",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "physics",
-    paperLink:
-      "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link",
-  },
-
-  {
-    title: "pspc",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "pspc",
-    paperLink:
-      "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link",
-  },
-  {
-    title: "Sociology",
-    category: "notes",
-
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "Sociology",
-    paperLink:
-      "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link",
-  },
-  {
-    title: "1st year all question paper",
-    category: "questionPaper",
-    paper_year: 2020,
-    department: "EE",
-    semester: "odd",
-    year: 1,
-    subject: "all",
-    paperLink:
-      "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm",
-  },
+  ,
 
   {
     title: "Analog Electronics Notes",
@@ -1601,6 +1375,1559 @@ const data = [
     paperLink:
       "https://drive.google.com/drive/folders/1pJmQ9dC73VqNQHmKE4izHo4U6L4rE47X?usp=share_link",
   },
+
+  {  "title":"BEE",
+"category": "notes",
+
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "EE",
+"semester": "odd",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "EE",
+"semester": "odd",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "EE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "EE",
+"semester": "odd",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "EE",
+"semester": "odd",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "EE",
+"semester": "even",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+{  "title":"BEE",
+"category": "notes",
+
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "ETE",
+"semester": "odd",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "ETE",
+"semester": "odd",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "ETE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "ETE",
+"semester": "odd",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "ETE",
+"semester": "odd",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "ETE",
+"semester": "even",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+{  "title":"BEE",
+"category": "notes",
+
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "CSE",
+"semester": "odd",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "CSE",
+"semester": "odd",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CSE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "CSE",
+"semester": "odd",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "CSE",
+"semester": "odd",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "CSE",
+"semester": "even",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+{  "title":"BEE",
+"category": "notes",
+
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "IE",
+"semester": "odd",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "IE",
+"semester": "odd",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "IE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "IE",
+"semester": "odd",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "IE",
+"semester": "odd",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "IE",
+"semester": "even",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "CE",
+"semester": "even",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "CE",
+"semester": "even",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "CE",
+"semester": "even",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "CE",
+"semester": "even",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+
+
+{  "title":"BEE",
+"category": "notes",
+
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "CE",
+"semester": "odd",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "ME",
+"semester": "even",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "ME",
+"semester": "even",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "ME",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "ME",
+"semester": "even",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "ME",
+"semester": "even",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+
+
+{  "title":"BEE",
+"category": "notes",
+
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "ME",
+"semester": "odd",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "CHE",
+"semester": "even",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "CHE",
+"semester": "even",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CHE",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "CHE",
+"semester": "even",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "CHE",
+"semester": "even",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+
+
+{  "title":"BEE",
+"category": "notes",
+
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "CHE",
+"semester": "odd",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+
+
+{  "title":"EGD",
+"category": "notes",
+
+"department": "IP",
+"semester": "even",
+"year": 1,
+"subject": "EGD",
+"paperLink" : "https://drive.google.com/drive/folders/1zuH61Ao8mAps9qO-S9HHIHLkflpDx0xs?usp=share_link"
+
+},
+{  "title":"EM",
+"category": "notes",
+
+"department": "IP",
+"semester": "even",
+"year": 1,
+"subject": "EM",
+"paperLink" : "https://drive.google.com/drive/folders/10phW1BxqjZa6FHZwt19xqn1HrWkBJAQF?usp=share_link"
+
+},
+
+
+{  "title":"Maths",
+"category": "notes",
+
+"department": "IP",
+"semester": "even",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+{  "title":"physics",
+"category": "notes",
+
+"department": "IP",
+"semester": "even",
+"year": 1,
+"subject": "physics",
+"paperLink" : "https://drive.google.com/drive/folders/14wHGbNBV0nz0OebRjZELOMi8vxvqaX_A?usp=share_link"
+
+},
+
+
+{  "title":"Sociology",
+"category": "notes",
+
+"department": "IP",
+"semester": "even",
+"year": 1,
+"subject": "Sociology",
+"paperLink" : "https://drive.google.com/drive/folders/1644qpd7RpZyM3iXCm45nAaW8jmt560W9?usp=share_link"
+
+},
+
+
+{  "title":"BEE",
+"category": "notes",
+
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "BEE",
+"paperLink" : "https://drive.google.com/drive/folders/12c44xKsAsgS2j4JuGb9CkjdQ0fyQnid3?usp=share_link"
+},
+{  "title":"Chemisrty",
+"category": "notes",
+
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "Chemisrty",
+"paperLink" : "https://drive.google.com/drive/folders/1padm59nUhAwtBWLbVDphC64oVH1Yyedn?usp=share_link"
+},
+
+{  "title":"CPS",
+"category": "notes",
+
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "CPS",
+"paperLink" : "https://drive.google.com/drive/folders/1Afa86njBAZ-GkbzLWZZbP4zff-TzX3mu?usp=share_link"
+},
+{  "title":"Maths",
+"category": "notes",
+
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "Maths",
+"paperLink" : "https://drive.google.com/drive/folders/1NFYKEodCr4sDWVOD4tHYKHCMYwqk6CyE?usp=share_link"
+
+},
+
+{  "title":"pspc",
+"category": "notes",
+
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "pspc",
+"paperLink" : "https://drive.google.com/drive/folders/15JSBAjLqrpWM5wnOgcOxIPGoQyan054T?usp=share_link"
+
+},
+{  "title":"1st year all question paper",
+"category": "questionPaper",
+"paper_year": 2020,
+"department": "IP",
+"semester": "odd",
+"year": 1,
+"subject": "all",
+"paperLink" : "https://drive.google.com/drive/folders/18nXx3Lg6-LQlotdi8VhFIO3LwUXB2ygm"
+
+},
+
+
+{
+  "title": "chapter 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "heat transfer",
+  "paperLink" : "https://drive.google.com/file/d/1_GFIID6ThEE54tCOH0mkJ9bYl6ECYLrG/view?usp=share_link"
+},       
+{
+  "title": "chapter 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "heat transfer",
+  "paperLink" : "https://drive.google.com/file/d/168g97_qEa6pPhyRMKzELTCjzFzLfczKJ/view?usp=share_link"
+},       
+{
+  "title": "chapter 3",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "heat transfer",
+  "paperLink" : "https://drive.google.com/file/d/15UaOFQep1Sj1NJL3pgr7baPjnB1AdkuN/view?usp=share_link"
+},       
+{
+  "title": "chapter 4",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "heat transfer",
+  "paperLink" : "https://drive.google.com/file/d/1mMak-FEjzqzjW6qQu8j_b0dtxejaxYDk/view?usp=share_link"
+},     
+{
+  "title": "chapter 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1Frlzpf6a6yvkDpk7bm5na9KVkJrReodI/view?usp=share_link"
+},  
+{
+  "title": "chapter 2a",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1EnzMYIsTWppuTroFsifjj0H0c6cvo21M/view?usp=share_link"
+},  
+{
+  "title": "chapter 2b",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1hDM292ou5rJojh-zuMRWx8kyE8NqpbZ5/view?usp=share_link"
+},  
+{
+  "title": "chapter 3",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1P43TriHkmr5ZUF-v6LhnNiSbLFo6geEJ/view?usp=share_link"
+},  
+{
+  "title": "chapter 8",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1AnnQtgAyEEISdmu9H7zDLDkKYGcTGIkK/view?usp=share_link"
+},  
+{
+  "title": "chapter 13",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1WOn1O4JS_a3mfETRiBrcsNY68CrNyd7_/view?usp=share_link"
+},  
+{
+  "title": "ppt on welded joints",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "machine design 1",
+  "paperLink" : "https://drive.google.com/file/d/1y_YggiDWaMMQ6Y30Wv6su-C2_v10qMoA/view?usp=share_link"
+},  
+{
+  "title": "Balancing of Reciprocating",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "madom",
+  "paperLink" : "https://drive.google.com/file/d/1VVfdL-Xb3r6qtKG-P0m0thI_8wHaEhcs/view?usp=share_link"
+},  
+{
+  "title": "Balancing of Rotating Masses",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "madom",
+  "paperLink" : "https://drive.google.com/file/d/1uQBCN1OHlSsZEJiddAAQKkuiT34VQay0/view?usp=share_link"
+},  
+{
+  "title": "gyroscope",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "madom",
+  "paperLink" : "https://drive.google.com/file/d/1NH5fXcXJQRmVNBu0eBc0nlGQLvtDq66P/view?usp=share_link"
+},  
+{
+  "title": "gyroscope 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "madom",
+  "paperLink" : "https://drive.google.com/file/d/1fF02VT5qs2bIXLJynK06KxCexa38j21f/view?usp=share_link"
+},  
+{
+  "title": "locomotive",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "madom",
+  "paperLink" : "https://drive.google.com/file/d/1FUfP9MX6GH9M2oh8XocvZBAq9qvX07Iy/view?usp=share_link"
+},  
+{
+  "title": "coordinate measuring machine",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://drive.google.com/file/d/1o7vIa4kVmBBpbU2QiVbOgUhcaKC5InMJ/view?usp=share_link"
+},    
+{
+  "title": "introductory concept",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://drive.google.com/file/d/1stKfogvvdJkPrhGfSMGnhsjZvEOpuxuq/view?usp=share_link"
+},    
+{
+  "title": "screw measurements",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://drive.google.com/file/d/1BZJvSbLQYRoEIL_v_iTGUZ-hCCMrqVhC/view?usp=share_link"
+},    
+{
+  "title": "SPC",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://drive.google.com/file/d/1Uhvl-Q-142UcNUxoGKaGj8yVv_Y2FPDi/view?usp=share_link"
+},    
+{
+  "title": "process",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://docs.google.com/presentation/d/1NkP19BjPLbIObMNKK6DbvpPekoF6QW1x/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "gauge-no gauge",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "eim",
+  "paperLink" : "https://docs.google.com/presentation/d/1-8eu772iJ0BJDQp7LRO4Ov_MzccqZu2p/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1xbeRpX-id-kmr3DHcH7P7Fbll9w61vmq/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1H_JxBT-qjxzGBB1dxTWxMZIqTrLPDfBv/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : ""
+},    
+{
+  "title": "chapter 3",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1N2QRHuig9Ma_u_Bl3qfxH4neXLjtJbze/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 4",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1OKQ4DU8dA7bmC0ys35T0P-C2DEtccT3X/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 5",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1pa3ajLwKMLdZpwxpnZ90zu5h-AH8BGD8/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 6",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1aFN6K1SFE3kFl1uyv3bBCYuzZPbYSS35/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},    
+{
+  "title": "chapter 7",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1sb7swwsH5j-RK1IHbZrEyetH-TwJH3fv/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+},     
+{
+  "title": "chapter 8",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "odd",
+  "year": 3,
+  "subject": "economics",
+  "paperLink" : "https://docs.google.com/document/d/1V4ezq-EiQt_1dWneRDzLNuU3QBAY_3Iz/edit?usp=share_link&ouid=103000011358939915699&rtpof=true&sd=true"
+}, 
+{
+  "title": "design of helical springs",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "machine design 2",
+  "paperLink" : "https://drive.google.com/file/d/1L49L4cyqxrx_dJ_dqi8toZ4hqztRSRvP/view?usp=share_link"
+},
+{
+  "title": "helical spring design",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "machine design 2",
+  "paperLink" : "https://drive.google.com/file/d/1XWB0S0AAk3JaLwiHiIXZwUDrBIQGoBs1/view?usp=share_link"
+}, 
+{
+  "title": "design of journal bearing",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "machine design 2",
+  "paperLink" : "https://drive.google.com/file/d/11IYiJd9hL9DTJtEV8mVYdem8WNcGSgIO/view?usp=share_link"
+},       
+{
+  "title": "selection of rolling contact bearings",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "machine design 2",
+  "paperLink" : "https://drive.google.com/file/d/1CYoT8iQdvCmanEIYuN2S2WeP3NbQQ5gN/view?usp=share_link"
+},       
+{
+  "title": "module 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "accountancy",
+  "paperLink" : "https://drive.google.com/file/d/1SetDXMx5k6OhmgHA1ZolLE4GsikdN_d-/view?usp=share_link"
+},    
+{
+  "title": "unit 2 module 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "accountancy",
+  "paperLink" : "https://drive.google.com/file/d/1-wGzYx0o6wtmKqbzChS2S_iQFggTw1Hk/view?usp=share_link"
+},         
+{
+  "title": "chapter 8,11",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "accountancy",
+  "paperLink" : "https://drive.google.com/file/d/1UoFL_mQUYD-RVGJPHwXQ4XTzUBde-GZZ/view?usp=share_link"
+},    
+{
+  "title": "questionPaper",
+  "category": "questionPaper",
+  "paper_year": 2022,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "accountancy",
+  "paperLink" : "https://drive.google.com/file/d/1lJv3zHmX6VSgNcFG_7a5LKSh7KPwn7Ei/view?usp=share_link"
+},    
+{
+  "title": "module 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1Ur0_YvdcIc6mY5yMx09ljkTQhxPV1b6_/view?usp=share_link"
+},    
+{
+  "title": "module 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1As9F6-u9AnjUnX2cps3Np26U4OWp1Dhz/view?usp=share_link"
+},    
+{
+  "title": "module 3",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1dI9ZVUjb06zGU9Byic4PMcozxSRDgbqm/view?usp=share_link"
+},    
+{
+  "title": "module 4",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1nOQmMR3ZlbjdOe6B_jaanY7xhaQkhz9O/view?usp=share_link"
+},    
+{
+  "title": "module 5",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1qU2nbMOrTN45KAPs9dmocEpITNs29gZC/view?usp=share_link"
+},     
+{
+  "title": "module 7",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1qYX1096YEkkkMBp2FhYX0JvJWMfEihjy/view?usp=share_link"
+},    
+{
+  "title": "module 8",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1Hd8r85JV2URghDjMUe1fkJyXGt_dKUFC/view?usp=share_link"
+},    
+{
+  "title": "module 9",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1Abnsxd4xCnxVCs7AEL2EpyPznblMqj0h/view?usp=share_link"
+},    
+{
+  "title": "module 10",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1keats3OrCioll-KvmUCZyAPDd_3cZ5Ir/view?usp=share_link"
+},    
+{
+  "title": "module 11",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/1Yhs2UpYb50mLU7AN_0FWxgjXV_v5pXnr/view?usp=share_link"
+},    
+{
+  "title": "module 12",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "MMI",
+  "paperLink" : "https://drive.google.com/file/d/18ogJXwjrh4zqaHsO0T71YiAz1GOXhXcp/view?usp=share_link"
+},    
+{
+  "title": "lec 1",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1RdtHEKalXXT5w4vxBir8sGgo7ktqWLvq/view?usp=share_link"
+},    
+{
+  "title": "lec 2",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1baYVOH0PDJJlwfTOz3vSO5TdxfC2LcTQ/view?usp=share_link"
+},    
+{
+  "title": "lec 3-4",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1R7g4acKMJWIB8Yg5gCUzCWiJBoOpkf2v/view?usp=share_link"
+},    
+{
+  "title": "lec 5-6",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1FMIoDptDkYCwDjWbexK2pyZA8rYXktT9/view?usp=share_link"
+},    
+{
+  "title": "lec 7-9",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1bzLQeT6Nnl0Y3DqshBQ4jRc3c3vXXSAR/view?usp=share_link"
+},    
+{
+  "title": "lec 10",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1O3LFLtXZwX72feI8Pb2XFzyUgOwezWlI/view?usp=share_link"
+},    
+{
+  "title": "lec 11",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1soaKHi0ruVTsPah86SWKWiDBJK4T9Oiw/view?usp=share_link"
+},    
+{
+  "title": "lec 13-14",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1Hxr0JGmvod8qdmaSV2uw4TIMEhS-wLx0/view?usp=share_link"
+},    
+{
+  "title": "lec",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : ""
+},    
+{
+  "title": "lec 20-25",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/1a5QdoByN8cieXjRWyngXr_u15cZ9lxYr/view?usp=share_link"
+},    
+{
+  "title": "lec 26-28",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/103IKXjd3KGrBy-46S9IUMeD3gjkcp8TN/view?usp=share_link"
+},    
+{
+  "title": "lec 29-31",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/14zCbJ35DYuHSvPV3QY06zChVcjPchRFM/view?usp=share_link"
+},    
+{
+  "title": "lec 16-19",
+  "category": "notes",
+  "paper_year": 2020,
+  "department": "MECHANICAL",
+  "semester": "even",
+  "year": 3,
+  "subject": "workshop 2",
+  "paperLink" : "https://drive.google.com/file/d/19ei46uU6K39kwsURbKVJ5VCRhCGulO8n/view?usp=share_link"
+}
+
+
+
 ];
 
 export default data;
