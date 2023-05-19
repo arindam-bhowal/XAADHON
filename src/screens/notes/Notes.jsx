@@ -19,6 +19,7 @@ const Notes = () => {
 
   const [subject, setSubject] = useState("");
   const [subjects, setSubjects] = useState([]);
+  const [allSubjects, setAllSubjects] = useState([])
 
   const [filterYear, setFilterYear] = useState();
 
@@ -47,9 +48,25 @@ const Notes = () => {
   }, [branch, year]);
 
   useEffect(() => {
-    notes && setSubjects(notes.map((note) => note.subject));
+    notes && setAllSubjects(notes.map((note) => note.subject));
     setAllNotes(notes);
   }, [notes]);
+
+  useEffect(() => {
+    // subjects && setSubjects(subjects.filter((value, index, self) => {
+    //   return self.indexOf(value) === index;
+    // }))
+    const uniqueArray = allSubjects.reduce((accumulator, currentValue) => {
+      if (!accumulator.includes(currentValue)) {
+        accumulator.push(currentValue);
+      }
+      return accumulator;
+    }, []);
+      
+
+    setSubjects(uniqueArray)
+  }, [allSubjects])
+  
 
   useEffect(() => {
     subject && setAllNotes(notes.filter((note) => note.subject === subject));
