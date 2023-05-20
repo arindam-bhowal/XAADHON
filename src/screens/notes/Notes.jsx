@@ -74,7 +74,8 @@ const Notes = () => {
 
   useEffect(() => {
     sem && setAllNotes(notes.filter((note) => note.semester === sem));
-  }, [sem]);
+    allNotes && setAllSubjects(allNotes.map((note) => note.subject));
+  }, [sem, allNotes]);
 
   useEffect(() => {
     filterYear &&
