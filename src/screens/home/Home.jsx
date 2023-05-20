@@ -53,7 +53,7 @@ const Home = () => {
                   <option value="CE">Civil</option>
                   <option value="EE">Electrical</option>
                   <option value="CHE">Chemical</option>
-                  <option value="ME">Mechinical</option>
+                  <option value="ME">Mechanical</option>
                   <option value="IE">Instrumentation</option>
                   <option value="CSE">Computer Science</option>
                   <option value="IP">Industrial Production</option>
